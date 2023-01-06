@@ -1,0 +1,594 @@
+.banner {
+  width: 1920px;
+  height: px;
+  left: 808px;
+  top: 808px;
+  border: 5px;
+  margin-top: 0px;
+}
+.banner-text {
+  /* All Thinks Are Possible If You believe */
+
+  position: absolute;
+  width: 870px;
+  height: 228px;
+  left: 808px;
+  top: 216px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 80px;
+  text-align: right;
+  text-align: justify;
+  text-align: right;
+
+  /* Dark 01 */
+  color: #151414;
+}
+.btn {
+  background-color: orangered;
+  border: none;
+  text-align: center;
+
+  margin-top: 40px;
+  position: absolute;
+  width: 160px;
+  height: 58px;
+  left: 1500px;
+  top: 599px;
+  border-radius: 5px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.banner-paragraph {
+  position: absolute;
+  width: 780px;
+  height: 100px;
+  left: 876px;
+  top: 468px;
+  margin-top: 68px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+
+  /* or 162% */
+
+  text-align: right;
+  justify-content: center;
+
+  /* Dark 02 */
+
+  color: #444343;
+}
+.person-image {
+  margin-top: 50px;
+  margin-left: 258px;
+  background: url(ff.png);
+}
+.ladies-text {
+  position: absolute;
+  width: 300px;
+  height: 94px;
+  left: 862px;
+  top: 1178px;
+  margin-left: 108px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 47px;
+
+  /* Dark 01 */
+
+  color: #151414;
+}
+.ladies-discription {
+  position: absolute;
+  margin-top: 50px;
+  padding-left: 105px;
+  width: 2100px;
+  height: 104px;
+  left: 862px;
+  top: 1296px;
+  word-spacing: 04px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  /* or 162% */
+
+  /* Dark 02 */
+  color: #444343;
+}
+.failures-list {
+  /* Group 4 */
+
+  position: absolute;
+  margin-top: 45px;
+  padding-left: 100px;
+  width: 315px;
+  height: 26px;
+  left: 896px;
+  top: 1416px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 200;
+  font-size: 15px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+
+  /* Dark 02 */
+
+  color: #444343;
+}
+.my-plans {
+  position: absolute;
+  width: 500px;
+  text-align: center;
+  height: 47px;
+  margin-top: 60px;
+  left: 711px;
+  top: 1792.3px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+  /* identical to box height */
+
+  /* Dark 01 */
+
+  color: #151414;
+}
+.web-development-logo {
+    
+  position: absolute;
+  width: 92.96px;
+  height: 92.96px;
+  left: 330px;
+  top: 1901px;
+}
+.Web-Development {
+  margin-top: 5px;
+  position: absolute;
+  width: 270px;
+  height: 35px;
+  left: 230px;
+  top: 2012.26px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  /* Dark 01 */
+
+  color: #151414;
+}
+.I-want-to-start {
+  position: absolute;
+  width: 177px;
+  height: 29px;
+  left: 277px;
+  top: 2063.26px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+
+  /* Dark 03 */
+
+  color: #737272;
+}
+.javascript-logo {
+  margin-top: 5px;
+  position: absolute;
+  width: 92.96px;
+  height: 92.96px;
+  left: 631px;
+  top: 1895px;
+}
+.Javascript {
+  margin-top: 08px;
+  position: absolute;
+  width: 156px;
+  height: 35px;
+  left: 599px;
+  top: 2006.3px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  text-align: center;
+
+  /* Dark 01 */
+
+  color: #151414;
+}
+.I-want-to-learn {
+  position: absolute;
+  width: 181px;
+  height: 29px;
+  left: 586px;
+  top: 2057.3px;
+
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+
+  /* Dark 03 */
+
+  color: #737272;
+}
+.smoking-logo {
+  margin-top: 20px;
+  position: absolute;
+  width: 93px;
+  height: 93px;
+  left: 916px;
+  top: 1889.3px;
+}
+.Smoking-Habit{
+    margin-top: 08px;
+    
+position: absolute;
+width: 218px;
+height: 35px;
+left: 853px;
+top: 2006.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+
+/* Dark 01 */
+
+color: #151414;
+
+}
+.I-want-to-end{
+    /* I want to end */
+
+position: absolute;
+width: 164px;
+height: 29px;
+left: 880px;
+top: 2057.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+/* Dark 03 */
+color: #737272;
+
+
+
+}
+
+.ecomerce-logo{
+ position: absolute;
+width: 92.96px;
+margin-top: 20px;
+height: 92.96px;
+left: 1218px;
+top: 1889.3px;
+}
+
+.ecommerce{
+    position: absolute;
+    margin-top: 08px;
+width: 174px;
+height: 35px;
+left: 1177px;
+top: 2006.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 35px;
+text-align: center;
+
+/* Dark 01 */
+
+color: #151414;
+}
+.I-want-to-develop{
+    /* I want to develop */
+
+position: absolute;
+width: 214px;
+height: 29px;
+left: 1157px;
+top: 2057.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+/* Dark 03 */
+color: #737272;
+
+
+}
+.contrainer{
+
+
+align-items: center;
+margin-left: 250px;
+margin-right: 250px;
+}
+
+
+.watch-banner{
+position: absolute;
+margin-left: 250px;
+margin-right: 250px;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2222.26px;
+
+border-radius: 10x;
+
+
+}
+.watch-status{
+    /* Awlays keep a positive mindset */
+
+position: absolute;
+width: 1140px;
+height: 300px;
+left: 500px;
+right: 500px;
+top: 2281.26px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+}
+.call-now{
+    position: absolute;
+  
+    width: 150px;
+    height: 60px;
+    left: 294px;
+    top: 2399.26px;
+    margin-top: 35px;
+    margin-left: 200px;
+    margin-right: 35px;
+    border-radius: 05px;
+    border: none;
+
+    
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: orangered
+}
+.bg-black{
+    position: absolute;
+    width: 1920px;
+    height: 577px;
+    left: 0px;
+    top: 2652.26px;
+    background: #151414;
+}
+.Future{
+    position: absolute;
+    width: 148px;
+    height: 53px;
+    left: 230px;
+    top: 2782.26px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    /* identical to box height */
+    
+    
+    color: #F8F8F8;
+    
+
+}
+.future-discription{
+    position: absolute;
+    margin-top: 35px;
+width: 485px;
+height: 78px;
+left: 230px;
+top: 2851.26px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 200;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+
+color: #FFFFFF;
+}
+.Email{
+    /* Email : info@gmail.com */
+
+position: absolute;
+margin-top: 25px;
+width: 184px;
+height: 26px;
+left: 230px;
+top: 2953.26px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #FFFFFF;
+
+
+}
+.phone{
+    /* Phone : 01500 00 00 00 */
+
+position: absolute;
+width: 186px;
+height: 26px;
+left: 230px;
+top: 2995.26px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #FFFFFF;
+
+
+}
+.fb-logo{
+    position: absolute;
+width: 47px;
+height: 46px;
+left: 230px;
+top: 3053.26px;
+border-radius: 25px;
+
+/* White */
+
+background: #FFFFFF;
+}
+
+.twitter-logo
+{
+    position: absolute;
+width: 47px;
+height: 46px;
+left: 294px;
+top: 3053.26px;
+border-radius: 25px;
+
+
+/* White */
+
+background: #FFFFFF;
+
+
+}
+.youtube-logo{
+    position: absolute;
+width: 46px;
+height: 46px;
+left: 359px;
+top: 3053.26px;
+border-radius: 25px;
+
+}
+.Subscribe{
+    position: absolute;
+width: 123px;
+height: 29px;
+left: 1046px;
+top: 2782.26px;
+margin-bottom: 65px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+.email-box{
+    position: absolute;
+    padding: 0  15px;
+width: 325px;
+height: 64px;
+left: 1046px;
+top: 2842.26px;
+border-radius:8px ;
+border-color: #FFFFFF;
+background-color: black;
+margin-top: 18px;
+font-size: 16px;
+
+
+
+
+
+}
+.btn-Subscribe{
+position: absolute;
+width: 150px;
+height: 65px;
+left: 1082.02px;
+top: 2942.26px;
+margin-left: -35px;
+
+border-radius: 12px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #F15B22;
+margin-top: 10px;
+}
+
